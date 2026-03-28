@@ -1,2 +1,3 @@
 CHANGING SOMETHING TO TEST PULL COMMAND
 promena na fajl
+nekoja druga promena
